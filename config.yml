@@ -1,12 +1,12 @@
 baseurl: "/"
-title: "Stackbit Fresh Theme"
+title: "Kento"
 page_load_js: "assets/js/main.js"
 params:
-  description: Personal blogging theme for Stackbit
+  description: デモ
   layout_style: overflow
   palette: blue
   header:
-    title: "Stackbit Fresh"
+    title: "デモ"
     tagline: Header Tagline
     profile_img: images/avatar.png
     profile_img_alt: Author avatar
